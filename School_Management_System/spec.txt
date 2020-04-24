@@ -1,0 +1,51 @@
+This is a school management project which has data about Students, teachers and the funds 
+
+keeps track of students total fees
+fees already paid by students 
+teachers salary
+
+School contains - (we need to create school class as well) 
+teachers
+students
+total money earned
+total money spent - salary for teachers 
+
+
+//Teacher 
+ID
+Name
+Teaching Experience
+Salary 
+Address
+
+//Student
+ID
+Name
+grade
+total fee 
+fees paid
+
+
+
+
+
+
+
+
+
+
+
+
+requirement - 
+A school will have teachers and students. We need to calculate the fee paid by the students and salary paid to the teachers and remaining amount 
+
+
+objects - 
+1 - teacher 
+2 - student 
+3 - school 
+4 - get total fee paid by the students 
+5 - get remaining fee of each student 
+6 - get remaining amount with school 
+
+//later specifications are to save this data first to a txt file then to excel then to db and then to MongoDB 
